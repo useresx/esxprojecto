@@ -6,5 +6,8 @@
     },    {
         "Username": "kullanıcı1",
         "Hwid": "MDAwMF8wMDAwXzAxMDBfMDAwMF9FNEQyXzVDQUZfQUVGNF81NDAxLg=="
+    },    {
+        "Username": "hwid",
+        "Hwid": "MDAwMF8wMDAwXzAwMDBfMDAwMF8wMDI2X0I3MjhfMzVEN19FM0I1Lg=="
     }
 ]
